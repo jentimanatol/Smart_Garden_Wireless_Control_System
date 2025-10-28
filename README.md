@@ -1,0 +1,2 @@
+# Smart_Garden_Wireless_Control_System
+The Smart Garden Wireless Control System is an interdisciplinary educational platformthat merges microelectronics, computer science, data analytics, cybersecurity, mechanicaldesign, and environmental biology into one cohesive Internet-of-Things (IoT) project. Itdemonstrates how embedded systems can monitor and regulate environmental parameterssuch as soil moisture, temperature, and humidity using wireless RF communication anddecision-based automation.
