@@ -318,7 +318,7 @@ TSWLatexianTemp*
 
 
 # Ignore any directory named "prompt" and its contents
-/prompt/
+**/prompt/
 
 
 prompt.*
@@ -329,6 +329,7 @@ prompt.*
 
 *.bat
 
-/tex/
+**/tex/
 
 /tex1/
+**/Newfolder
