@@ -311,3 +311,20 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+
+
+
+
+
+# Ignore any directory named "prompt" and its contents
+prompt/
+
+
+prompt.*
+# Ignore any file named "prompt" with any extension
+.Rproj.user
+
+
+
+*.bat
